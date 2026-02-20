@@ -66,11 +66,7 @@ netlify.toml
 npm run build
 ```
 
-**netlify.toml** includes:
-- Build command: `npm run build`
-- Publish directory: `build`
-- Redirect rules for SPA routing
-- Cache headers for assets
+
 
 
 
